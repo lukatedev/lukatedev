@@ -32,11 +32,11 @@ Student building desktop experiences and developer tools on Linux, learning in p
 
 <br />
 
-<img src="https://img.shields.io/badge/QML-8BA9C7?style=flat-square&logo=qt&logoColor=0d1117&labelColor=0d1117" alt="QML" />
-<img src="https://img.shields.io/badge/Slint-8BA9C7?style=flat-square&labelColor=0d1117" alt="Slint" />
-<img src="https://img.shields.io/badge/Wayland-8BA9C7?style=flat-square&labelColor=0d1117" alt="Wayland" />
-<img src="https://img.shields.io/badge/Niri-8BA9C7?style=flat-square&labelColor=0d1117" alt="Niri" />
-<img src="https://img.shields.io/badge/Quickshell-8BA9C7?style=flat-square&labelColor=0d1117" alt="Quickshell" />
+<img src="https://img.shields.io/badge/QML-161b22?style=for-the-badge&logo=qt&logoColor=8BA9C7" alt="QML" />
+<img src="https://img.shields.io/badge/Slint-161b22?style=for-the-badge" alt="Slint" />
+<img src="https://img.shields.io/badge/Wayland-161b22?style=for-the-badge&logo=wayland&logoColor=8BA9C7" alt="Wayland" />
+<img src="https://img.shields.io/badge/Niri-161b22?style=for-the-badge" alt="Niri" />
+<img src="https://img.shields.io/badge/Quickshell-161b22?style=for-the-badge" alt="Quickshell" />
 
 </div>
 
@@ -54,12 +54,9 @@ Student building desktop experiences and developer tools on Linux, learning in p
 - **Learn by building**: every tool starts as something I actually need.
 - **Open by default**: code, notes and mistakes in public when possible.
 
-## GitHub stats
+## Streak
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lukatedev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8BA9C7&text_color=c9d1d9&icon_color=8BA9C7" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukatedev&layout=compact&hide_border=true&bg_color=0d1117&title_color=8BA9C7&text_color=c9d1d9&langs_count=6" height="165" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=lukatedev&hide_border=true&background=0D1117&ring=8BA9C7&fire=8BA9C7&currStreakLabel=8BA9C7&sideLabels=c9d1d9&dates=9CA3AF&sideNums=c9d1d9&currStreakNum=c9d1d9" alt="Contribution streak" />
 
