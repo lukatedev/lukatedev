@@ -21,7 +21,6 @@ Student building desktop experiences and developer tools on Linux, learning in p
 ## Currently
 
 - 🔨 Building **iNiR Hub**: widgets, themes and community extensions for the iNiR shell.
-- 🦀 Building **CSGO-Server**: a Rust app + CLI to host a dedicated server on Linux.
 - 📚 Learning: deeper QML (custom components, performance), idiomatic Rust, and Python tooling.
 
 ## Toolbox
@@ -46,8 +45,6 @@ Student building desktop experiences and developer tools on Linux, learning in p
 |---|---|---|
 | [**iNiR Hub**](https://github.com/lukatedev/inir-hub) | QML | Widgets, themes and community extensions for the iNiR shell. |
 | [**CSGO-Server**](https://github.com/lukatedev/CSGO-Server) | Rust · Slint | Host a CS:GO Legacy dedicated server on Linux, with a desktop app and a CLI. |
-| [**iNiR**](https://github.com/lukatedev/iNiR) | QML · Quickshell | My fork of a Niri shell, and the place for my contributions upstream. |
-
 ## How I work
 
 - **Small, frequent commits**: one topic per commit, short messages.
